@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="list_press">#fccc</drawable>
+    <drawable name="list_normal">#ffff</drawable>
+    <color name="black">#f000</color>
+    <color name="white">#0000</color>
+</resources>
